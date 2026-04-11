@@ -1,0 +1,15 @@
+# Ignore node modules
+node_modules/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+
+# Ignore 
+.DS_Store
+.ipynb_checkpoints/
